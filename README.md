@@ -1,12 +1,12 @@
-# temel-matematik-proje-odevi
+### temel-matematik-proje-odevi
 
-#Ayrık Matematik neden programlama için önemlidir?#
+# Ayrık Matematik neden programlama için önemlidir?
 
 Matematik ve programlama, hem soyut düşünmeyi gerektirdikleri hem de mantıksal yapıları kullandıkları için birçok benzerliğe sahiptir. Programlamada, matematik becerileri genellikle problemleri çözmek, algoritmalar geliştirmek ve veri yapılarını uygulamak için kullanılır. Bazı örnekler vermek gerekirse, grafik programlamada denklemlerin kullanımı, veri analizinde olasılıkların ve istatistiklerin uygulanması ve bilgisayar bilimlerinde ayrık matematiğin kullanılmasıdır. Genel olarak, matematiğin programlama için önemli bir temel olduğu söylenebilir.
 
 
 
-##Matematikte hangi konular programlamada öne çıkar?
+## Matematikte hangi konular programlamada öne çıkar?
 
 Programlamada yaygın olarak kullanılan matematik konularından bazıları şunlardır:
 
@@ -25,7 +25,7 @@ Programlamada yaygın olarak kullanılan matematik konularından bazıları şun
 
 
 
-##Ayrık Matematik neden programlama için önemlidir?## 
+## Ayrık Matematik neden programlama için önemlidir?
 
 Ayrık matematik programlama için önemlidir çünkü bilgisayar bilimlerinde kullanılan birçok kavram ve yöntemi sağlar. Ana nedenlerden bazıları şunlardır:
 
